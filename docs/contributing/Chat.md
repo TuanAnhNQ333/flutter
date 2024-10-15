@@ -37,6 +37,7 @@ The #hidden-chat and #team channels are not publicly-readable, you have to be a 
 
 ## New channels
 
+##
 If you need a new channel, first just use #general or #hackers, or a thread in one of those channels; if the conversation lasts more than a day, ask for a channel in #server-support.
 
 If you find your team's channel is hard to follow due to having too many topics discussed at once, ask for a new channel, or use threads.
