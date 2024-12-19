@@ -18,7 +18,7 @@ enabled_branches:
 platform_properties: 
   staging_build_linux:
     properties:
-      dependencies: >-
+      dependencies: >- 
         [
           {"dependency": "curl", "version": "version:7.64.0"}
         ]
