@@ -13,7 +13,7 @@
 #  * https://github.com/flutter/cocoon/blob/main/CI_YAML.md
 enabled_branches:
   - master
-  - flutter-\d+\.\d+-candidate\.\d+
+  - flutter-\d+\.\d+-candidate\.\d+ 
 
 platform_properties: 
   staging_build_linux:
